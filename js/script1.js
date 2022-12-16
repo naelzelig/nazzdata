@@ -4,7 +4,7 @@ var platinum1 = document.getElementById("platinum");
 var palladium1 = document.getElementById("palladium");
 
 var settings = {
-    "url": "https://api.metalpriceapi.com/v1/latest?api_key=696cfe015a71d799581a0a851289e45a&base=USD&currencies=XAU,XAG,XPT,XPD",
+    "url": "https://api.metalpriceapi.com/v1/latest?api_key=816499359b988449e9b15d40d1bb5a61&base=USD&currencies=XAU,XAG,XPT,XPD",
     "method": "GET",
     "timeout": 0,
   };
