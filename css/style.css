@@ -1280,6 +1280,13 @@ ul.link_menu li a:hover {
    .def .hhh:hover{
      background: #4534fe;
    }
+   .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-rendering: optimizeLegibility
+   }
 
 
    
