@@ -1280,6 +1280,9 @@ ul.link_menu li a:hover {
    .def .hhh:hover{
      background: #4534fe;
    }
+   .rspv-tabel{
+     overflow-x:auto;
+   }
 
 
    
