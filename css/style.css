@@ -1281,7 +1281,7 @@ ul.link_menu li a:hover {
      background: #4534fe;
    }
    .container {
-    overflow: auto;
+    overflow-x: auto;
     margin: auto;
    }
 
